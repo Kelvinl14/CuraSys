@@ -392,8 +392,3 @@ Este bloco serve como "lista de tarefas" para quando o MVP estiver estável:
 
 ---
 
-Se quiser, posso também gerar automaticamente os arquivos iniciais (scaffold): `backend/init_db.py`, `backend/app.py` (Flask), exemplos de blueprints, e o MVP `frontend/index.html`.
-
----
-
-Obrigado! Se quiser, já gero os arquivos iniciais e um `commit` inicial (conteúdo pronto para colar no seu repo).
