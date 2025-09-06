@@ -369,9 +369,9 @@ Recomendo **MIT License** para começar. Crie arquivo `LICENSE` com o template M
 
 ## Contato / mantenedores
 
-* **Nome:** \[Seu nome aqui]
-* **E-mail:** seu\@email
-* **GitHub:** @seu-usuario
+* **Nome:** \Kelvyn Leôncio Andrade Lima
+* **E-mail:** seu\kermerlima10@gmail.com
+* **GitHub:** @Kelvinl14
 
 ---
 
