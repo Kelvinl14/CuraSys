@@ -375,7 +375,7 @@ Recomendo **MIT License** para começar. Crie arquivo `LICENSE` com o template M
 
 ---
 
-## 4. Evolução para versão final (LEMBRETE / checklist)
+## Evolução para versão final (LEMBRETE / checklist)
 
 Este bloco serve como "lista de tarefas" para quando o MVP estiver estável:
 
